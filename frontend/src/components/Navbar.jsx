@@ -15,7 +15,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <h1 className="text-xl font-bold text-gray-900">
-              📝 Task Manager
+              🧾 Task Manager
             </h1>
           </div>
 
